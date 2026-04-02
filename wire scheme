@@ -1,0 +1,12 @@
+wire scheme
+
+IMPORTANT!!!! you must share one gnd pin on the arduino or it will not work
+
+tactile button 1pin to gnd on arduino and 2nd pin to D2 on arduino
+ir led negetive to mosfet middle pin(drain)
+ir ed positive to arduino 5v
+mosfet left pin(gate) to D3 on arduino and 10k ohm resistor one pin on gnd and the other on the mosfet left pin
+mosfet right pin(source) to gnd on arduino
+
+optional coming soon
+BATTERY
