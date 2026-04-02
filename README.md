@@ -21,7 +21,25 @@ ir led negetive to mosfet middle pin(drain)
 ir ed positive to arduino 5v
 mosfet left pin(gate) to D3 on arduino and 10k ohm resistor one pin on gnd and the other on the mosfet left pin
 mosfet right pin(source) to gnd on arduino
+## Wiring
 
+- **Tactile Button**
+  - Pin 1 → GND (Arduino)
+  - Pin 2 → D2 (Arduino)
+
+- **IR LED**
+  - Positive (+) → 5V (Arduino)
+  - Negative (−) → MOSFET Drain (middle pin)
+
+- **MOSFET (e.g. IRLZ44N)**
+  - Gate (left pin) → D3 (Arduino)
+  - Drain (middle pin) → IR LED negative (−)
+  - Source (right pin) → GND (Arduino)
+
+- **10kΩ Resistor (Pull-down)**
+  - One side → GND (Arduino)
+  - Other side → MOSFET Gate (left pin)
+    
 ![20240828124104515](https://github.com/user-attachments/assets/7405eb24-babd-4f72-8b04-7405f63e760b)
 
 
