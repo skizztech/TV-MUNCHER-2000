@@ -36,7 +36,7 @@ IMPORTANT!!!! you must share one gnd pin on the arduino or it will not work
   - Other side → MOSFET Gate (left pin)
     
 ![20240828124104515](https://github.com/user-attachments/assets/7405eb24-babd-4f72-8b04-7405f63e760b)
-<img width="1190" height="845" alt="SCH_Schematic1_1-P1_2026-04-02" src="https://github.com/user-attachments/assets/52cab201-8270-43c3-bbc7-73756f7ac4bd" />
+<img width="595" height="422.5" alt="SCH_Schematic1_1-P1_2026-04-02" src="https://github.com/user-attachments/assets/52cab201-8270-43c3-bbc7-73756f7ac4bd" />
 
 
 optional coming soon
