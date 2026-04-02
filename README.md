@@ -22,5 +22,8 @@ ir ed positive to arduino 5v
 mosfet left pin(gate) to D3 on arduino and 10k ohm resistor one pin on gnd and the other on the mosfet left pin
 mosfet right pin(source) to gnd on arduino
 
+![20240828124104515](https://github.com/user-attachments/assets/7405eb24-babd-4f72-8b04-7405f63e760b)
+
+
 optional coming soon
 BATTERY
