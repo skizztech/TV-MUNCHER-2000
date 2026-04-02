@@ -13,6 +13,8 @@ Overall, the design focuses on maximizing IR output power and range while keepin
 - Chanzon 10W 940nm IR LED
 - 6x6mm Tactile Push Button
 
+WIRE BEFORE FLASHING THE CODE
+  
 wire scheme
 
 IMPORTANT!!!! you must share one gnd pin on the arduino or it will not work
